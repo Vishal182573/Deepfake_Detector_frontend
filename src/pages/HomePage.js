@@ -55,7 +55,7 @@ const HomePage = () => {
             <div style={{ animation: 'fadeInUp 0.8s ease forwards' }}>
               <div className="badge" style={{ marginBottom: '1.5rem' }}>
                 <span style={{ width: 7, height: 7, background: 'var(--accent-cyan)', borderRadius: '50%', display: 'inline-block', animation: 'pulse-glow 2s ease-in-out infinite' }} />
-                B.Tech Final Year Project · 2025
+                B.Tech Final Year Project · 2026
               </div>
 
               <h1 style={{

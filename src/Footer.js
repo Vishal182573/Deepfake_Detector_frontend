@@ -40,7 +40,7 @@ const Footer = () => {
         </div>
 
         <div className="footer-bottom">
-          <p>© 2025 DeepShield — B.Tech Final Year Project &nbsp;·&nbsp; Built with XceptionNet + SRM Filtering</p>
+          <p>© 2026 DeepShield — B.Tech Final Year Project &nbsp;·&nbsp; Built with XceptionNet + SRM Filtering</p>
         </div>
       </div>
     </footer>
